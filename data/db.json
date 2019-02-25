@@ -1,0 +1,35 @@
+{
+"categories": [
+    {
+        "name": "ThingOne",
+        "_id": 1,
+        "display_name" : "Thing One",
+        "description" : "Dr Suess's first thing."
+    },
+    {
+        "name": "ThingTwo",
+        "_id": 2,
+        "display_name" : "Thing Two",
+        "description" : "Dr Suess's afterthought."
+    }
+
+
+],
+
+"products": [
+
+    {
+        "name": "ThingOneHat",
+        "_id": 1,
+        "display_name" : "Thing One Hat",
+        "description" : "An original and signed hat from Thing One."
+    },
+    {
+        "name": "ThingTwoRapVideo",
+        "_id": 2,
+        "display_name" : "Thing Two Rap Battle",
+        "description" : "Link to Epic Rap Battle video, featuring Thing Two."
+    }
+]
+
+}
