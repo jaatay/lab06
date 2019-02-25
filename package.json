@@ -18,6 +18,8 @@
   "homepage": "https://github.com/jaatay/lab06#readme",
   "dependencies": {
     "eslint": "^5.14.1",
-    "jest": "^24.1.0"
+    "express": "^4.16.4",
+    "jest": "^24.1.0",
+    "superagent": "^4.1.0"
   }
 }
